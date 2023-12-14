@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseVitorpy
 - 👀 I’m interested in work with software programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on make an impact on other people's lives with my programs
+- 💞️ I’m looking to collaborate on make an impact on other people's lives with my programs/software
 - 📫 How to reach me josevitormirandiba@gmail.com
 
 <!---
