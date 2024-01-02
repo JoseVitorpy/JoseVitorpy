@@ -1,4 +1,4 @@
-### Olá, Meu nome é José Vitor 👋
+### Olá! Meu nome é José Vitor 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vitor1010/)
 
@@ -7,10 +7,16 @@
 ### Tecnologias que uso no dia a dia
 
 <div style='display: inline_black'><br/>
-<img align="center" alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
-</div>
+<img align="center" alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
+</div><br/>
 
-Admirado por tecnologia, networking e por impactar a vida das pessoas com meus conhecimentos em tecnologia e outra áreas.
+Amante de tecnologia, networking e impactar a vida das pessoas com meus conhecimentos em tecnologia e outras áreas.
+
+Estudante 📖 <br/>
+15 Anos 🎉 <br/>
+Inglês 🇺🇸 - Fluente <br/>
+
+
 
 ### Email para contato:
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
