@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, Meu nome é José Vitor 👋
 
-<!--
-**JoseVitorpy/JoseVitorpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vitor1010/)
 
-Here are some ideas to get you started:
+![JoseVitorpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseVitorpy&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso no dia a dia
+
+<div style='display: inline_black'><br/>
+<img align="center" alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
+</div>
+
+Admirado por tecnologia, networking e por impactar a vida das pessoas com meus conhecimentos em tecnologia e outra áreas.
+
+### Email para contato:
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+ 
+ josevitormirandiba@gmail.com
